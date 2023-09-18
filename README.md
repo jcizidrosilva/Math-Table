@@ -5,4 +5,4 @@
 
 <img src="img/1.png">
 
-<h4>https://jcizidrosilva.github.io/Math-Table/</h4>
+<h2>https://jcizidrosilva.github.io/Math-Table/</h2>
