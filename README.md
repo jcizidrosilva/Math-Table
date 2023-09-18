@@ -5,6 +5,7 @@
 
 <img src="img/1.png">
 
-👉🏼<h3><a href="https://jcizidrosilva.github.io/Math-Table/" target="">Explore the Project</a></h3>
+<h1>👇🏽</h1>
+<h3><a href="https://jcizidrosilva.github.io/Math-Table/" target="">Explore the Project</a></h3>
 
 
